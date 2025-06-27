@@ -103,7 +103,7 @@ def apply_prompt_pattern(task: str, pattern: Optional[str]) -> str:
 
                     Follow these steps:
                         1. Identify the key components needed for the task (e.g., goal, input, output format).
-                        2. Create a **prompt template** that includes placeholders like `input`, `goal`, or `style`.
+                        2. Create a **prompt template** that includes placeholders like `input`, `goal`, or `style`. 
                         3. Clearly describe how the placeholders will be used by the LLM when filled in.
                         4. Optionally, include an example with filled-in values to demonstrate the prompt in action.
 
