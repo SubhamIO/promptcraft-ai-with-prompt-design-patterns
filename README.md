@@ -5,7 +5,7 @@ Here's a complete **`README.md`** file for your project — written from the per
 
 ---
 
-## 🧠 PromptCraft AI — Intelligent Prompt Generator & Improver - powerd by Prompt Design Patterns
+## 🧠 PromptCraft AI — Intelligent Prompt Generator & Improver - powered by Prompt Design Patterns
 
 > A multi-node LangGraph-based agent pipeline that **generates, evaluates, critiques**, and **improves LLM prompts** dynamically using Groq's blazing-fast **LLaMA 3.1 8B** model.
 > Built for developers, researchers, and prompt engineers who demand **high-quality prompts**.
